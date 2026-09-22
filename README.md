@@ -5,8 +5,8 @@ p&pi隊
 | 姓名 | GitHub 帳號 | 工作內容 |
 |---|---|---|
 | 林家萱 | [@leolin8000-cloud](https://github.com/leolin8000-cloud) | Repository Owner |
-| 吳品叡 | [@r3xdj](https://github.com/r3xdj) | Developer A |
-| 賴境鎰 | [@jimmylai-921](https://github.com/jimmylai-921) | Reviewer |
+| 吳品叡 | [@r3xdj](https://github.com/r3xdj) | Reviewer |
+| 賴境鎰 | [@jimmylai-921](https://github.com/jimmylai-921) | Developer A |
 | 陳宥銨 | [@youanc](https://github.com/youanc) | Developer B |
 | 鍾岳宏 | [@mouse0622](https://github.com/mouse0622) | Reviewer |
 
@@ -29,4 +29,4 @@ p&pi隊
 https://colab.research.google.com/github/leolin8000-cloud/vocabuddy-group-1/blob/main/vocabuddy.ipynb
 
 ## 程式執行方式
-定義隨機單字測驗功能函式 `vocabulary_quiz`抽取三個單字測驗，最終顯示測驗成果
+定義執行隨機單字測驗功能的函式 `vocabulary_quiz`抽取三個單字測驗，最終顯示測驗成果
